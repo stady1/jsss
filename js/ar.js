@@ -8,7 +8,3 @@ function fibArr(k) {
     return f[f.length - 1]
 }
 alert(fibArr(k));
-
-
-рирмпмп
-оормм орм
