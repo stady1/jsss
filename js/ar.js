@@ -10,10 +10,5 @@ function fibArr(k) {
 alert(fibArr(k));
 
 
-
-//  function fib(n) {
-// f = [0,1]; 
-// for (var i = 1; i < n; i++){
-// f.push(f[f.length-1]+f[f.length-2]);
-// }
-// alert(f[f.length-1]);
+рирмпмп
+оормм орм
