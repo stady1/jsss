@@ -1,4 +1,4 @@
-const k = parseFloat(prompt('Ввести  номер числа Фібоначі для обч. в  масиві'));
+const k = parseInt(prompt('Ввести  номер числа Фібоначі для обч. в  масиві'));
 
 function fibArr(k) {
     let f = [0, 1];

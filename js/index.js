@@ -1,5 +1,5 @@
- const n = parseFloat(prompt('Ввести порядковий номер числа Фібоначі для обчислення в циклі'));
- 
+ const n = parseInt(prompt('Ввести порядковий номер числа Фібоначі для обчислення в циклі'));
+
  function fibLoop(n) {
   let first = 1;
   let second = 1;
@@ -10,4 +10,6 @@
   }
   return second;
  }
+
  alert(fibLoop(n));
+ 

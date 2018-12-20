@@ -1,4 +1,4 @@
- const m = parseFloat(prompt('Ввести порядковий номер числа Фібоначі для обч. в  рекурсії'));
+ const m = parseInt(prompt('Ввести порядковий номер числа Фібоначі для обч. в  рекурсії'));
  
  function fibRec(m) {
   if (m <= 1) {
@@ -9,3 +9,4 @@
   }
  }
  alert(fibRec(m));
+ 
